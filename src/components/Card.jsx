@@ -1,6 +1,7 @@
 /* eslint-disable no-underscore-dangle */
 import React from 'react';
 import axios from 'axios';
+import { Link } from 'react-router-dom';
 
 function Card(product) {
   const { data } = product;
@@ -34,12 +35,14 @@ function Card(product) {
         </p>
       </div>
       <div className="flex flex-row space-x-1">
-        <button
-          className="w-16 px-1 py-1 text-xs tracking-wide text-white transition-colors duration-200 transform bg-green-400 hover:bg-green-300 rounded-md "
-          type="button"
-        >
-          Editar
-        </button>
+        <Link to={`/product/${data._id}`}>
+          <button
+            className="w-16 px-1 py-1 text-xs tracking-wide text-white transition-colors duration-200 transform bg-green-400 hover:bg-green-300 rounded-md "
+            type="button"
+          >
+            Editar
+          </button>
+        </Link>
         <button
           className="w-16 px-1 py-1 text-xs tracking-wide text-white transition-colors duration-200 transform bg-red-400 hover:bg-red-300 rounded-md "
           type="button"
