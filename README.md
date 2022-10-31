@@ -42,6 +42,7 @@ git clone git@github.com:Raph2ll/Front-Produtos.git
 ```
 
 2. Entre nas pastas dos repositórios clonados:
+
 **Back-Produtos:**
 ```sh
 cd Back-Produtos/Backend
@@ -52,6 +53,7 @@ cd Front-Produtos
 ```
 
 3. Inicialize a aplicação:
+
 **Back-Produtos:**
 ```sh
 npm start
