@@ -42,6 +42,7 @@ git clone git@github.com:Raph2ll/Front-Produtos.git
 ```
 
 2. Entre nas pastas dos repositórios clonados:
+
 **Back-Produtos:**
 ```sh
 cd Back-Produtos/Backend
@@ -52,6 +53,7 @@ cd Front-Produtos
 ```
 
 3. Inicialize a aplicação:
+
 **Back-Produtos:**
 ```sh
 npm start
@@ -63,4 +65,8 @@ npm run dev
 
 # Documentação da API
 
+<<<<<<< HEAD
 Com a aplicação já em execução, acesse a documentação em seu navegador pela URL http://localhost:3000/api-docs.
+=======
+Ainda em desenvolvimento.
+>>>>>>> c9814f15bb116533efc281628d78300984960f95
