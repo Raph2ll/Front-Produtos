@@ -65,8 +65,4 @@ npm run dev
 
 # Documentação da API
 
-<<<<<<< HEAD
 Com a aplicação já em execução, acesse a documentação em seu navegador pela URL http://localhost:3000/api-docs.
-=======
-Ainda em desenvolvimento.
->>>>>>> c9814f15bb116533efc281628d78300984960f95
