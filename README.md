@@ -82,6 +82,8 @@ npm install && npm run dev
 http://localhost:5173
 ```
 
+<div id='executando-os-testes'/> 
+
 ## ⚙️ Executando os testes
 
 
