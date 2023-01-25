@@ -161,7 +161,7 @@ Ferramentas utilizadas para criar o projeto:
 
 <img alt="Project Gif" width="600" src="assets/images/tests2023-01-25 155810.png" >
 
-> Imagen dos testes.
+> Imagem dos testes.
 
 <div id='versão'/>
 
